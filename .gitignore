@@ -29,6 +29,7 @@ pom.xml
 /nbbuild/
 /dist/
 /nbdist/
+/.idea/
 /.nb-gradle/
 build/
 !**/src/main/**/build/
